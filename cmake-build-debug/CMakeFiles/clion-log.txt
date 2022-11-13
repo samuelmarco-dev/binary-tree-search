@@ -1,0 +1,10 @@
+/home/samuelmarco/Apps/CLion-2022.2.1/clion-2022.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/samuelmarco/Apps/CLion-2022.2.1/clion-2022.2.1/bin/ninja/linux/ninja -G Ninja -S /home/samuelmarco/CLionProjects/binary-tree-search -B /home/samuelmarco/CLionProjects/binary-tree-search/cmake-build-debug
+-- The C compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/samuelmarco/CLionProjects/binary-tree-search/cmake-build-debug
